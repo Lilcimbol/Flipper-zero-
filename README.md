@@ -31,4 +31,34 @@ Start exploring and unlock the full potential of your Flipper Zero today!
 
 ![Banner](images/banner.png)
 
-Need the best files for your Flipper Zero? You've come to the right place.
+## ⚠️ Firmware Recommendation
+
+For the best experience with these files, I personally use Unleashed Firmware. Most custom firmware versions should work, but some Sub-GHz features may not be available on the stock Flipper Zero firmware.
+
+<p align="center">
+  <a href="https://github.com/darkflippers/unleashed-firmware">
+    <img src="https://img.shields.io/badge/Download-Unleashed%20Firmware-blue?style=for-the-badge" alt="Download Unleashed Firmware">
+  </a>
+</p>
+
+### Installation Guide
+
+1. Visit the Unleashed Firmware repository using the button above.
+2. Navigate to the latest release.
+3. Download the `.tgz` firmware file.
+4. Open **qFlipper** on your computer.
+5. Connect your Flipper Zero.
+6. Select **Update from File**.
+7. Choose the `.tgz` file you downloaded.
+8. Wait for the update to complete.
+
+### 📢 Coming Soon
+
+I'll be creating a YouTube tutorial showing:
+
+- How to install Unleashed Firmware
+- How to update your Flipper Zero
+- How to add files to your SD card
+- How to use the files included in this repository
+
+Stay tuned for the video and additional file uploads!
