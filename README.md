@@ -90,7 +90,3 @@ Start exploring and unlock the full potential of your Flipper Zero today!
   <b>Sub-GHz</b> &nbsp;&nbsp;&nbsp;&nbsp;
   <b>BadUSB</b>
 </p>
-
-# 🐬 Ultimate Flipper Zero File Collection
-
-![Banner](images/banner.png)
