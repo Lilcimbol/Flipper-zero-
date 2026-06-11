@@ -25,11 +25,6 @@ Welcome to your one-stop destination for Flipper Zero resources. Whether you're 
 🔥 Regularly updated
 🎯 Organized for quick access
 
-Start exploring and unlock the full potential of your Flipper Zero today!
-
-# 🐬 Ultimate Flipper Zero File Collection
-
-![Banner](images/banner.png)
 
 ## ⚠️ Firmware Recommendation
 
@@ -62,3 +57,9 @@ I'll be creating a YouTube tutorial showing:
 - How to use the files included in this repository
 
 Stay tuned for the video and additional file uploads!
+
+Start exploring and unlock the full potential of your Flipper Zero today!
+
+# 🐬 Ultimate Flipper Zero File Collection
+
+![Banner](images/banner.png)
