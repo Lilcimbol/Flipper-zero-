@@ -60,6 +60,37 @@ Stay tuned for the video and additional file uploads!
 
 Start exploring and unlock the full potential of your Flipper Zero today!
 
+<p align="center">
+  <img src="images/banner.png" width="1000">
+</p>
+
+<h2 align="center">📂 Browse Categories</h2>
+
+<p align="center">
+  <a href="./NFC">
+    <img src="images/nfc.png" width="140">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="./IR">
+    <img src="images/ir.png" width="140">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="./SubGHz">
+    <img src="images/subghz.png" width="140">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="./BadUSB">
+    <img src="images/badusb.png" width="140">
+  </a>
+</p>
+
+<p align="center">
+  <b>NFC</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>IR</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Sub-GHz</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>BadUSB</b>
+</p>
+
 # 🐬 Ultimate Flipper Zero File Collection
 
 ![Banner](images/banner.png)
