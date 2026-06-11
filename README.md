@@ -26,3 +26,9 @@ Welcome to your one-stop destination for Flipper Zero resources. Whether you're 
 🎯 Organized for quick access
 
 Start exploring and unlock the full potential of your Flipper Zero today!
+
+# 🐬 Ultimate Flipper Zero File Collection
+
+![Banner](images/banner.png)
+
+Need the best files for your Flipper Zero? You've come to the right place.
