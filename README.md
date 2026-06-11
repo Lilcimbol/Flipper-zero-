@@ -1,30 +1,69 @@
-# Flipper-zero-
-Looking for the best Flipper Zero files? You've come to the right place!
+# 🚀 The Ultimate Flipper Zero File Collection
 
-This collection includes everything you need for your Flipper Zero, including:
+<p align="center">
+  <img src="images/banner.png" width="1000">
+</p>
 
-• IR Files
-• Sub-GHz Files
-• BadUSB Scripts
-• WiFi Dev Board Evil Portals
-• NFC Files
-• RFID Files
-• iButton Files
-• And much more!
+<h2 align="center">📂 Browse Categories</h2>
 
-Browse our growing library and find the tools, files, and resources you need to get the most out of your Flipper Zero.
+<table align="center">
+<tr>
 
-Or a more flashy version:
+<td align="center">
+<a href="./NFC">
+<img src="images/nfc.gif" width="90"><br>
+NFC
+</a>
+</td>
 
-🚀 The Ultimate Flipper Zero File Collection
+<td align="center">
+<a href="./IR">
+<img src="images/ir.gif" width="90"><br>
+IR
+</a>
+</td>
+
+<td align="center">
+<a href="./SubGHz">
+<img src="images/subghz.gif" width="90"><br>
+Sub-GHz
+</a>
+</td>
+
+<td align="center">
+<a href="./BadUSB">
+<img src="images/badusb.gif" width="90"><br>
+BadUSB
+</a>
+</td>
+
+<td align="center">
+<a href="./RFID">
+<img src="images/rfid.gif" width="90"><br>
+RFID
+</a>
+</td>
+
+<td align="center">
+<a href="./iButton">
+<img src="images/ibutton.gif" width="90"><br>
+iButton
+</a>
+</td>
+
+</tr>
+</table>
+
+---
 
 Welcome to your one-stop destination for Flipper Zero resources. Whether you're looking for IR remotes, Sub-GHz files, NFC dumps, RFID tools, BadUSB scripts, Evil Portals for the WiFi Dev Board, or other useful files, you'll find them here.
 
-📂 Thousands of files
-⚡ Easy to download
-🔥 Regularly updated
+📂 Thousands of files  
+⚡ Easy to download  
+🔥 Regularly updated  
 🎯 Organized for quick access
 
+---
 
 ## ⚠️ Firmware Recommendation
 
@@ -34,59 +73,4 @@ For the best experience with these files, I personally use Unleashed Firmware. M
   <a href="https://github.com/darkflippers/unleashed-firmware">
     <img src="https://img.shields.io/badge/Download-Unleashed%20Firmware-blue?style=for-the-badge" alt="Download Unleashed Firmware">
   </a>
-</p>
-
-### Installation Guide
-
-1. Visit the Unleashed Firmware repository using the button above.
-2. Navigate to the latest release.
-3. Download the `.tgz` firmware file.
-4. Open **qFlipper** on your computer.
-5. Connect your Flipper Zero.
-6. Select **Update from File**.
-7. Choose the `.tgz` file you downloaded.
-8. Wait for the update to complete.
-
-### 📢 Coming Soon
-
-I'll be creating a YouTube tutorial showing:
-
-- How to install Unleashed Firmware
-- How to update your Flipper Zero
-- How to add files to your SD card
-- How to use the files included in this repository
-
-Stay tuned for the video and additional file uploads!
-
-Start exploring and unlock the full potential of your Flipper Zero today!
-
-<p align="center">
-  <img src="images/banner.png" width="1000">
-</p>
-
-<h2 align="center">📂 Browse Categories</h2>
-
-<p align="center">
-  <a href="./NFC">
-    <img src="images/nfc.png" width="140">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="./IR">
-    <img src="images/ir.png" width="140">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="./SubGHz">
-    <img src="images/subghz.png" width="140">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="./BadUSB">
-    <img src="images/badusb.png" width="140">
-  </a>
-</p>
-
-<p align="center">
-  <b>NFC</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>IR</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Sub-GHz</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>BadUSB</b>
 </p>
